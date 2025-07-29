@@ -1,0 +1,17 @@
+/* <weight>: Use a value from 100 to 900
+ <uniquifier>: Use a unique and descriptive class name*/
+
+html {
+  font-family: "Public Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+p {
+    background-color: blue; 
+    color: rgb(255, 0, 0);
+}
+body {
+    Background-image: url("Burnside Icon - black RGB.jpg");
+    padding: 00px 100px 100px 100px;
+}
