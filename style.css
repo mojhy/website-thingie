@@ -8,10 +8,13 @@ html {
   font-style: normal;
 }
 p {
-    background-color: blue; 
-    color: rgb(255, 0, 0);
+    background-color: rgb(0, 58, 44); 
+    color: rgb(0, 171, 142);
+    text-align: center;
 }
 body {
-    Background-image: url("Burnside Icon - black RGB.jpg");
+    Background-image: url('Brand Assets/Main Logo/Digital (RGB)/00 Icon/Burnside Icon - black RGB.jpg');
+    Background-size: 7%;
     padding: 00px 100px 100px 100px;
+    background-repeat: no-repeat;
 }
