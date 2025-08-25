@@ -18,3 +18,8 @@ body {
     padding: 00px 100px 100px 100px;
     background-repeat: no-repeat;
 }
+.hero {
+  Background-image: url('images/hero.jpg');
+  background-repeat: no-repeat;
+  Background-size: 100%;
+}
