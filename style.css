@@ -14,12 +14,18 @@ p {
 }
 body {
     Background-image: url('Brand Assets/Main Logo/Digital (RGB)/00 Icon/Burnside Icon - black RGB.jpg');
-    Background-size: 7%;
+    Background-size: 6%;
     padding: 00px 100px 100px 100px;
     background-repeat: no-repeat;
 }
-.hero {
+div.hero {
   Background-image: url('images/hero.jpg');
   background-repeat: no-repeat;
   Background-size: 100%;
+  padding: 200px 0 200px 0;
+  text-align: left;
+  color: white;
+}
+h1.hero {
+  Padding-left: 10px;
 }
