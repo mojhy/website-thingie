@@ -33,4 +33,19 @@ h1.hero {
 h1.intro { 
   color: rgb(0, 78, 66);
   Padding-left: 10px;
+ 
+}
+p.intro {
+   padding-bottom: 40px;
+}
+
+div.intro_item {
+  display: inline-block;
+  width: 20%;
+  border: 1px red solid
+
+}
+h3 {
+  color:rgb(0, 58, 44);
+  text-align: center;
 }
